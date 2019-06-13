@@ -72,6 +72,7 @@ main{
 }
 .portfolio2{
 	width:920px;
+	margin:0 auto;
 }
 .portfolio-title{
 	text-align:center;
@@ -92,7 +93,7 @@ main{
 	color:#000000;
 }
 .portfolio-image-box{
-	width:1000px;
+	width:920px;
 	margin:0 auto;
 }
 .portfolio-image{
@@ -132,6 +133,7 @@ main{
 }
 .feature2{
 	width:980px;
+	margin:0 auto;
 }
 .feature-title{
 	margin-bottom:8px;
@@ -146,7 +148,8 @@ main{
 	text-align:center;
 }
 .feature-strength-box{
-	width:1200px;
+	width:980px;
+	margin:0 auto;
 }
 .feature-strength{
 	width:320px;
@@ -173,6 +176,7 @@ main{
 }
 .profile2,.profile-box{
 	width:1024px;
+	margin:0 auto;
 }
 .profile-title,.profile-text{
 	text-align:center;
